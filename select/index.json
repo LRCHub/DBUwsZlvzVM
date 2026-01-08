@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オーバーラップ",
+  "base_artist": "シユイ",
+  "createdAt": "2026-01-08T11:58:06.214730Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オーバーラップ",
+      "artist": "シユイ",
+      "has_synced": false,
+      "path": "select/pl_01_オーバーラップ_シユイ.txt"
+    }
+  ]
+}
